@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<AbsoluteMove>
+  <ProfileToken>nhs</ProfileToken>
+  <Position>
+    <PanTilt x="12.0" y = "8.0" />
+    <Zoom x = "4.0" />
+  </Position>
+</AbsoluteMove>
