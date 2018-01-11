@@ -1,3 +1,3 @@
 # ADB2017Assignment3
-#Type your name here
-#Other info
+#Nguyễn Hồng Sơn  
+#USTHBI6-128
